@@ -2,7 +2,7 @@ from openai import OpenAI
 import streamlit as st
 
 st.title("🐝StoryBee🐝")
-st.caption("💬 Storyteller powered by OpenAI")
+st.caption("💬 Storyteller powered by GPT4o")
 
 with st.sidebar:
     #api_key = st.text_input(f"{model} Key", key="chatbot_api_key", type="password")
