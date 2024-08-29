@@ -1,7 +1,6 @@
 from openai import OpenAI
 import streamlit as st
 
-
 st.title("🐝StoryBee🐝")
 st.caption("💬 Storyteller powered by OpenAI")
 
